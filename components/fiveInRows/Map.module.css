@@ -1,0 +1,15 @@
+.map_container {
+    width: 300px;
+    background-color: #fff;
+    color: #000;
+}
+
+.mapWrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mapItem {
+    flex: 1 0 33%; /* explanation below */
+    border: 1px solid white;
+}
